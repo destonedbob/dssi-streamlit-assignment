@@ -1,100 +1,100 @@
-University,Degree
-NUS,Law
-SMU,Law
-SMU,Law
-NUS,Computing (Computer Science)
-SMU,Computer Science
-NTU,Business and Computer Engineering/Computing
-SMU,Computer Science
-SMU,Information Systems
-NUS,Engineering (Computer Engineering)
-NUS,Computing (Information Security)
-NUS,Computing (Information Systems)
-NUS,Science (Business Analytics)
-NTU,Engineering and Economics
-NTU,Computer Engineering
-SMU,Information Systems
-NTU,Data Science and Artificial Intelligence
-NTU,Computer Science
-NUS,Business Administration
-NUS,Science (Data Science and Analytics)
-SMU,Business Management
-SMU,Economics
-NUS,Business Administration
-NUS,Engineering (Electrical Engineering)
-NTU,Electrical and Electronic Engineering
-NTU,Information Engineering and Media
-NTU,Aerospace Engineering
-NTU,Accountancy and Business
-NUS,Engineering (Industrial and Systems Engineering)
-NUS,Science
-NUS,Dental Surgery
-NUS,Engineering (Engineering Science)
-SMU,Accountancy
-SMU,Economics
-NUS,Engineering (Mechanical Engineering)
-SMU,Business Management
-NUS,Engineering (Chemical Engineering)
-NTU,Mechanical Engineering
-NUS,Engineering (Materials Science and Engineering)
-NTU,Economics
-SMU,Social Sciences
-NTU,Science and Education
-NTU,Business
-NUS,Science
-NTU,Mathematics and Mathematical Sciences
-NUS,Arts
-NUS,Engineering (Environmental Engineering)
-NTU,Public Policy and Global Affairs
-NUS,Business Administration (Accountancy)
-NTU,Chemical and Biomolecular Engineering
-NTU,Maritime Studies
-NTU,Materials Engineering
-NTU,History
-NTU,Arts and Education
-NTU,Environmental Earth Systems Science
-NTU,Environmental Engineering
-NUS,Engineering (Biomedical Engineering)
-NTU,Chinese
-NTU,Bioengineering
-NUS,Social Sciences
-NUS,Arts
-NTU,Sociology
-NUS,Science
-NUS,Science (Real Estate)
-NUS,Engineering (Civil Engineering)
-NUS,Arts (Industrial Design)
-NTU,Civil Engineering
-NTU,Interdisciplinary Double Major
-NTU,Philosophy
-NTU,Psychology
-NTU,Physics and Applied Physics
-SMU,Social Sciences
-NUS,Science (Nursing)
-NUS,Music
-NUS,Environmental Studies
-NTU,Biological and Biomedical Sciences
-NTU,Linguistics and Multilingual Studies
-NUS,Science (Pharmaceutical Science)
-SMU,Accountancy
-NUS,Science (Project and Facilities Management)
-NUS,Science (Nursing)
-NTU,Sports Science and Management
-NTU,Chemistry and Biological Chemistry
-NTU,English
-NUS,Arts
-NTU,Communication Studies
-NUS,Business Administration (Accountancy)
-NTU,Accountancy
-NTU,"Art, Design and Media"
-NUS,Landscape Architecture
-NTU,Biomedical Sciences and Chinese Medicine
-NUS,Science (Computational Biology)
-NUS,Science (Pharmacy)
-NUS,Arts (Architecture)
-NUS,Medicine and Surgery
-NTU,Medicine
-NUS-ISS,Software Engineering
-NUS-ISS,Enterprise Business Analytics
-NUS-ISS,Artificial Intelligence Systems
-NUS-ISS,Digital Leadership
+University,Degree,Rating
+NUS,Law,1
+SMU,Law,9
+SMU,Law,5
+NUS,Computing (Computer Science),0
+SMU,Computer Science,8
+NTU,Business and Computer Engineering/Computing,6
+SMU,Computer Science,5
+SMU,Information Systems,5
+NUS,Engineering (Computer Engineering),0
+NUS,Computing (Information Security),0
+NUS,Computing (Information Systems),1
+NUS,Science (Business Analytics),1
+NTU,Engineering and Economics,9
+NTU,Computer Engineering,3
+SMU,Information Systems,8
+NTU,Data Science and Artificial Intelligence,4
+NTU,Computer Science,4
+NUS,Business Administration,1
+NUS,Science (Data Science and Analytics),0
+SMU,Business Management,7
+SMU,Economics,9
+NUS,Business Administration,0
+NUS,Engineering (Electrical Engineering),1
+NTU,Electrical and Electronic Engineering,10
+NTU,Information Engineering and Media,7
+NTU,Aerospace Engineering,5
+NTU,Accountancy and Business,6
+NUS,Engineering (Industrial and Systems Engineering),1
+NUS,Science,1
+NUS,Dental Surgery,1
+NUS,Engineering (Engineering Science),1
+SMU,Accountancy,4
+SMU,Economics,6
+NUS,Engineering (Mechanical Engineering),0
+SMU,Business Management,5
+NUS,Engineering (Chemical Engineering),0
+NTU,Mechanical Engineering,10
+NUS,Engineering (Materials Science and Engineering),1
+NTU,Economics,7
+SMU,Social Sciences,5
+NTU,Science and Education,4
+NTU,Business,3
+NUS,Science,0
+NTU,Mathematics and Mathematical Sciences,8
+NUS,Arts,0
+NUS,Engineering (Environmental Engineering),1
+NTU,Public Policy and Global Affairs,4
+NUS,Business Administration (Accountancy),1
+NTU,Chemical and Biomolecular Engineering,4
+NTU,Maritime Studies,4
+NTU,Materials Engineering,3
+NTU,History,3
+NTU,Arts and Education,4
+NTU,Environmental Earth Systems Science,3
+NTU,Environmental Engineering,4
+NUS,Engineering (Biomedical Engineering),0
+NTU,Chinese,6
+NTU,Bioengineering,6
+NUS,Social Sciences,1
+NUS,Arts,1
+NTU,Sociology,9
+NUS,Science,1
+NUS,Science (Real Estate),1
+NUS,Engineering (Civil Engineering),0
+NUS,Arts (Industrial Design),1
+NTU,Civil Engineering,9
+NTU,Interdisciplinary Double Major,9
+NTU,Philosophy,3
+NTU,Psychology,4
+NTU,Physics and Applied Physics,6
+SMU,Social Sciences,4
+NUS,Science (Nursing),1
+NUS,Music,1
+NUS,Environmental Studies,0
+NTU,Biological and Biomedical Sciences,3
+NTU,Linguistics and Multilingual Studies,8
+NUS,Science (Pharmaceutical Science),0
+SMU,Accountancy,7
+NUS,Science (Project and Facilities Management),1
+NUS,Science (Nursing),1
+NTU,Sports Science and Management,6
+NTU,Chemistry and Biological Chemistry,3
+NTU,English,7
+NUS,Arts,1
+NTU,Communication Studies,9
+NUS,Business Administration (Accountancy),0
+NTU,Accountancy,3
+NTU,"Art, Design and Media",6
+NUS,Landscape Architecture,0
+NTU,Biomedical Sciences and Chinese Medicine,4
+NUS,Science (Computational Biology),0
+NUS,Science (Pharmacy),0
+NUS,Arts (Architecture),1
+NUS,Medicine and Surgery,1
+NTU,Medicine,10
+NUS-ISS,Software Engineering,1
+NUS-ISS,Enterprise Business Analytics,0
+NUS-ISS,Artificial Intelligence Systems,1
+NUS-ISS,Digital Leadership,1
