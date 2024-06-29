@@ -1,1 +1,1 @@
-{"name": "uni_rating", "metrics": "f1:0.4474159332360131", "version": 1, "registration_date": "2024-06-29T12:14:25.001768", "model": "uni_rating_model_v1.joblib", "features": "uni_rating_features_v1.joblib"}
+{"name": "uni_rating", "metrics": "R2:0.756674218955218", "version": 1, "registration_date": "2024-06-29T12:30:50.905970", "model": "uni_rating_model_v1.joblib", "features": "uni_rating_features_v1.joblib"}
