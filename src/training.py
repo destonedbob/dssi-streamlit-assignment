@@ -52,6 +52,7 @@ features = ['NUS', 'NUS-ISS', 'SMU', 'Accountancy and Business',
        'Science and Education', 'Social Sciences', 'Sociology',
        'Software Engineering', 'Sports Science and Management']
 label = 'Rating'
+model_name = 'uni_rating'
 
 def run(data_path, model_path, f1_criteria):
     logging.info('Process Data...')
@@ -78,7 +79,7 @@ def run(data_path, model_path, f1_criteria):
     score = f1_score(y_test, random_forest.predict(X_test), average='weighted')
     if score >= f1_criteria:
         logging.info('Deploy...')
-        mdl_meta = { 'name': 'loan_approval', 'metrics': f"f1:{score}" }
+        mdl_meta = { 'name': model_name, 'metrics': f"f1:{score}" }
         model_registry.register(random_forest, features, mdl_meta)
         #dump(clf, model_path+'mdl.joblib')
         #dump(features, model_path+'raw_features.joblib')
